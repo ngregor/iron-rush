@@ -194,6 +194,7 @@ a.social-btn:hover { color: #bd9213 }
 	margin: 0;
 	padding: 20px 0 0;
 }
+}
 
 #site-title h1 a {
 	display: block;
@@ -212,6 +213,7 @@ a.social-btn:hover { color: #bd9213 }
 	height: 65px;
 	margin: 0 auto;
 	}
+
 }
 
 #tooplate-menu ul {
@@ -231,24 +233,9 @@ a.social-btn:hover { color: #bd9213 }
 	float: left;
 	width: 125px;
 }
-#tooplate-middle {
-	background: url(../images/tooplate-middle.png) no-repeat;
-	}
-
-#tooplate-middle {
-	height: 240px;
-	padding: 37px 30px 51px 30px;
-	}
 
 }
 
-
-}
-@media(max-width: 660px){
-	#slider{
-	display:none;
-}
-}
 
 #tooplate-menu ul li a {
 	display: block;	
